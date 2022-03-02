@@ -1,0 +1,82 @@
+{
+    "1": {
+        "id": "1",
+        "name": "Akhmat Grozny",
+        "city": "Grozny"
+    },
+    "2": {
+        "id": "2",
+        "name": "Arsenal Tula",
+        "city": "Tula"
+    },
+    "3": {
+        "id": "3",
+        "name": "CSKA Moscow",
+        "city": "Moscow"
+    },
+    "4": {
+        "id": "4",
+        "name": "Dynamo Moscow",
+        "city": "Moscow"
+    },
+    "5": {
+        "id": "5",
+        "name": "Khimki",
+        "city": "Khimki"
+    },
+    "6": {
+        "id": "6",
+        "name": "Krasnodar",
+        "city": "Krasnodar"
+    },
+    "7": {
+        "id": "7",
+        "name": "Krylia Sovetov",
+        "city": "Samara"
+    },
+    "8": {
+        "id": "8",
+        "name": "Lokomotiv Moscow",
+        "city": "Moscow"
+    },
+    "9": {
+        "id": "9",
+        "name": "Nizhny Novgorod",
+        "city": "Nizhny Novgorod"
+    },
+    "10": {
+        "id": "10",
+        "name": "Rostov",
+        "city": "Rostov-on-Don"
+    },
+    "11": {
+        "id": "11",
+        "name": "Rubin Kazan",
+        "city": "Kazan"
+    },
+    "12": {
+        "id": "12",
+        "name": "Sochi",
+        "city": "Sochi"
+    },
+    "13": {
+        "id": "13",
+        "name": "Spartak Moscow",
+        "city": "Moscow"
+    },
+    "14": {
+        "id": "14",
+        "name": "Ufa",
+        "city": "Ufa"
+    },
+    "15": {
+        "id": "15",
+        "name": "FC Ural Yekaterinburg",
+        "city": "Yekaterinburg"
+    },
+    "16": {
+        "id": "16",
+        "name": "Zenit Saint Petersburg",
+        "city": "Saint Petersburg"
+    }
+}
